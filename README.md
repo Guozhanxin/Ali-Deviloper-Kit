@@ -52,8 +52,8 @@ Developer Kit STM32L496 是阿里联合[诺行](http://www.notioni.com/)推出�
 | 六轴传感器          |     支持     |                                       |
 | 光环境传感器        |   暂不支持   | 即将支持                              |
 | 音频解码            |    不支持    |                                       |
-| TFTLCD              |    不支持    |                                       |
-| WIFI                |    不支持    |                                       |
+| TFTLCD              |     支持     |                                       |
+| WIFI                |     支持     |                                       |
 | **片上外设**        | **支持情况** | **备注**                              |
 | GPIO                |     支持     | PA0, PA1... PI15 ---> PIN: 0, 1...144 |
 | UART                |     支持     | LPUART1,UART2/3                       |
